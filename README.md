@@ -2,20 +2,21 @@
 <img src="https://github.com/DjB112/java1_challenge/assets/131042234/0bdb35b2-7670-4502-b12f-61081df46b01" alt="Challenge Java" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua stack</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  Proyecto personal programado en <strong>Java</strong> utilizand una API con un menu con opciones para elegir las monedas que desea cambiar. Ademas al finalizar se muestra todo el historial de cambios que el usuario fue realizand. Dicho historial genera un archivo en formato json que guardara los procesos realizados.
+  Tambien se reabajaron los errores posibles que se puedan presentar. 
+  El proyecto esta en funcionamiento pero se pueden seguir mejorando cosas para enriquecer la aplicacion.
 </p>
 
 <p align="left">
-  🦄 Linguagens: **Coloque as linguagens que você desenvolve.**
+  🦄 Lenguaje: El lenguaje de la programación es Java.
 </p>
 
 <p align="left">
-  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
+  💼 Herramientas: Trabajamos con IntelliJ IDEA Community Edition 2024.1 + Gson + Exchange Rate API
 </p>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 Por cualquier consulta sobre el proyecto estos son mis medios de contacto: ⤵️
 </p>
 
 <p align="left">
