@@ -2,8 +2,8 @@
 <img src="https://github.com/DjB112/java1_challenge/assets/131042234/0bdb35b2-7670-4502-b12f-61081df46b01" alt="Challenge Java" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Proyecto personal programado en <strong>Java</strong> utilizand una API con un menu con opciones para elegir las monedas que desea cambiar. Ademas al finalizar se muestra todo el historial de cambios que el usuario fue realizand. Dicho historial genera un archivo en formato json que guardara los procesos realizados.
-  Tambien se reabajaron los errores posibles que se puedan presentar. 
+  Proyecto personal programado en <strong>Java</strong> utilizand una API con un menu con opciones para elegir las monedas que desea cambiar. Ademas al finalizar se muestra todo el historial de cambios que el usuario fue realizando. Dicho historial genera un archivo en formato json que guardara los procesos realizados.
+  Tambien se trajaron los errores posibles que se puedan presentar. 
   El proyecto esta en funcionamiento pero se pueden seguir mejorando cosas para enriquecer la aplicacion.
 </p>
 
